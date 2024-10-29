@@ -39,6 +39,7 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 3) vinicius
 4) raynner
 5) karoline
+   
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
   
