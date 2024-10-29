@@ -34,12 +34,11 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 [Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
-5) 
-
+1) marina
+2) martha
+3) vinicius
+4) raynner
+5) karoline
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
   
